@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\QLsinhvien\bin\Debug\net10.0\QLsinhvien.exe
+C:\Users\DELL\source\repos\QLsinhvien\bin\Debug\net10.0\QLsinhvien.deps.json
+C:\Users\DELL\source\repos\QLsinhvien\bin\Debug\net10.0\QLsinhvien.runtimeconfig.json
+C:\Users\DELL\source\repos\QLsinhvien\bin\Debug\net10.0\QLsinhvien.dll
+C:\Users\DELL\source\repos\QLsinhvien\bin\Debug\net10.0\QLsinhvien.pdb
+C:\Users\DELL\source\repos\QLsinhvien\obj\Debug\net10.0\QLsinhvien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\QLsinhvien\obj\Debug\net10.0\QLsinhvien.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\QLsinhvien\obj\Debug\net10.0\QLsinhvien.AssemblyInfo.cs
+C:\Users\DELL\source\repos\QLsinhvien\obj\Debug\net10.0\QLsinhvien.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QLsinhvien\obj\Debug\net10.0\QLsinhvien.dll
+C:\Users\DELL\source\repos\QLsinhvien\obj\Debug\net10.0\refint\QLsinhvien.dll
+C:\Users\DELL\source\repos\QLsinhvien\obj\Debug\net10.0\QLsinhvien.pdb
+C:\Users\DELL\source\repos\QLsinhvien\obj\Debug\net10.0\QLsinhvien.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QLsinhvien\obj\Debug\net10.0\ref\QLsinhvien.dll
